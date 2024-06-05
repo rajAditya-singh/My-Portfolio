@@ -37,7 +37,7 @@ section {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100vw;
+    width: 100%;
     padding: 2rem 9%;
     background-color: var(--bg-color);
     display: flex;
@@ -160,7 +160,7 @@ span {
 }
 
 .about {
-    min-width: 100vw;
+    /* min-width: 100vw; */
     display: flex;
     justify-content: center;
     align-items: center;
